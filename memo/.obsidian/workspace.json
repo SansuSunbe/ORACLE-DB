@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "c648dc07f34de404",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a7f41ca076b4d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac95a398e3b50590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day16_GROUP BY, SUB QUERY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f29474f8dc5c069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day17_OPTIMIZER(옵티마이저).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0fac6741af02c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day18_JOIN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7d781a62eff3f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day19_네츄럴 조인, 외부 조인, 셀프 조인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4037f020f75d2fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day20_DML 연습.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0eb9dcf34dfd2d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "52bc492efba5a578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0cba9ea7504b53c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f374af8ba41476f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fde44652013eb2e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9ea6738a671c9e73",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6bc4da6b14c1144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "151bc47337b4c967",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day20_DML 연습.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5a50dffcc3d0056",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day20_DML 연습.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a326151698f44da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e96484ee134318f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day20_DML 연습.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4037f020f75d2fa0",
+  "lastOpenFiles": [
+    "Day19_네츄럴 조인, 외부 조인, 셀프 조인.md",
+    "Day18_JOIN.md",
+    "Day17_OPTIMIZER(옵티마이저).md",
+    "Day16_GROUP BY, SUB QUERY.md",
+    "Day15_정규화&&집계함수(ORDER BY, CASE).md",
+    "Day14_CONCATENATION(연결).md",
+    "Day13_TCL.md",
+    "Day12_조건식.md",
+    "Day11_DML.md",
+    "Day10_WHERE.md",
+    "Day09_모델링.md",
+    "Day08_무결성.md",
+    "Day07_CONSTRAINT.md",
+    "Day06_DDL.md",
+    "Day05_RDBMS(관계형 데이터베이스 관리 시스템).md",
+    "Day20_DML 연습.md",
+    "Day19_",
+    "Pasted image 20240110012046.png",
+    "무제 파일 1.md"
+  ]
+}
