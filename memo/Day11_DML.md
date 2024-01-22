@@ -1,5 +1,6 @@
 
-DML(Data Manipulation Language)
+- DML(Data Manipulation Language)
+	- 데이터 조작 언어
 
 - SELECT : 조회(검색)
 	-  SELECT 컬럼명1, 컬럼명2, ... FROM 테이블명
